@@ -1,0 +1,12 @@
+.formulario{
+    background-color: white;
+    box-shadow: 2px 2px 3px pink;
+    margin-bottom: 5px;
+}
+
+.enviar{
+    background-color: white;
+    box-shadow: 2px 2px 3px pink;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

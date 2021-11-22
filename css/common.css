@@ -1,0 +1,68 @@
+body{
+    background-color: #000000;
+    color: white;
+}
+
+.cabecera{
+    text-align: center;
+    text-transform: uppercase;
+    font: oblique bold 150% cursive;
+}
+
+.logo{
+    margin-top: 2%;
+    width: 48%;
+    height: 40vh;
+    border: solid 1px #000000;
+    margin-left: 28%;
+    box-shadow: 2px 2px 3px white;
+    border-radius: 2%;
+}
+
+nav ul{
+    margin-left: 60vh;
+}
+
+ul li{
+    display: inline-block;
+    margin-left: 1vh;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    border: solid 2px white;
+    display: inline-block;
+    padding: 5px;
+    text-transform: uppercase;
+}
+
+li a:hover{
+    text-decoration: none;
+    color: yellow;
+    background-color: grey;
+    border: solid 2px ;
+    display: inline-block;
+    padding: 5px;
+}
+
+footer a{
+    padding: 5px;
+}
+
+footer a:hover{
+    text-decoration: none;
+    color: black;
+    background-color: grey;
+    display: inline-block;
+    padding: 5px;
+}
+
+footer{
+    color: rgb(144, 21, 226);
+    font: oblique bold 100% cursive;
+}
+body {
+    font-family:Arial;
+    font: small-caps 150% serif;
+}

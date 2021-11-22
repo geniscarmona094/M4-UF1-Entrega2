@@ -1,0 +1,9 @@
+.partidosG2{
+    background-image: url(../img/partidosG2.png);    
+    margin-top: 2%;
+    width: 50%;
+    height: 100vh;
+    border: solid 1px #000000;
+    margin-left: 28%;
+    box-shadow: 2px 2px 3px grey;
+}
